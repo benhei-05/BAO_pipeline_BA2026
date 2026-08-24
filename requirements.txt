@@ -1,0 +1,8 @@
+# cosmodesi packages
+https://github.com/cosmodesi/cosmoprimo
+https://github.com/cosmodesi/pypower
+https://github.com/cosmodesi/desilike
+https://github.com/cosmodesi/pyrecon
+
+# other packages
+
