@@ -3,6 +3,13 @@ https://github.com/cosmodesi/cosmoprimo
 https://github.com/cosmodesi/pypower
 https://github.com/cosmodesi/desilike
 https://github.com/cosmodesi/pyrecon
+https://github.com/adematti/lsstypes
 
 # other packages
+numpy
+matplotlib
+os
+glob
+argparse
+fitsio
 
