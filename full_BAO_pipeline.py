@@ -29,7 +29,6 @@ from lsstypes import Mesh2SpectrumPole, Mesh2SpectrumPoles
 from desilike.theories.galaxy_clustering import BAOPowerSpectrumTemplate, DampedBAOWigglesTracerPowerSpectrumMultipoles
 from desilike.likelihoods import ObservablesGaussianLikelihood
 from desilike.observables.galaxy_clustering import CutskyFootprint, ObservablesCovarianceMatrix
-from desilike.observables.galaxy_clustering import BoxFootprint
 from desilike.samples import plotting
 
 from pyrecon import IterativeFFTReconstruction
