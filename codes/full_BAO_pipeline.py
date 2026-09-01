@@ -1,16 +1,4 @@
 #!/usr/bin/env python
-"""
-measure_pk.py -- pre-reconstruction power-spectrum multipoles of one DESI DR1
-AbacusSummit cutsky mock (LRG, "complete"). First end-to-end smoke test, and
-already the Phase-1 engine: the --subsample flag down-samples the DATA so you
-can study how the BAO signal degrades with galaxy number.
-
-Run on a COMPUTE node (~15 GB RAM for nmesh=512), via submit_smoke.slurm or an
-interactive allocation -- NOT on the login node:
-
-    python measure_pk.py --indir data/mock0 --cap NGC --outdir results
-    python measure_pk.py --indir data/mock0 --subsample 0.25 --seed 1
-"""
 import os
 import glob
 import argparse
